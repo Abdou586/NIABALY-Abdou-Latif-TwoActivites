@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeuxActivites</string>
+    <string name="text_header">Message reçu</string>
+    <string name="text_header_reply">Réponse reçue</string>
+    <string name="editText_main">Entrez votre message ici</string>
+    <string name="editText_second">Entrez votre réponse ici</string>
+    <string name="button_main">Envoyer</string>
+    <string name="button_second">Répondre</string>
+</resources>
