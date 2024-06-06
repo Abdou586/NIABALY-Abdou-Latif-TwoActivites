@@ -41,4 +41,4 @@ Les contributions sont les bienvenues ! Veuillez soumettre une pull request pour
 
 ## Auteur
 - **Nom :** Abdou Latif Niabaly
-- **Email :** niabalyabdoulatif@gmail
+- **Email :** niabalyabdoulatif@gmail.com
